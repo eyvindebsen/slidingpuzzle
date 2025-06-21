@@ -19,3 +19,9 @@ Seems there is:
 https://www.cs.princeton.edu/courses/archive/spring21/cos226/assignments/8puzzle/specification.php
 
 Goal, to make code to solve any puzzle, of any size.
+
+Files:
+ slizepuzzle_game.bas 
+ contains a interactive version. Use the keys 1-F to move pieces into position.
+
+more files to come...
