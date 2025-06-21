@@ -12,9 +12,6 @@ I think most of us had this game in a piece of cheap plastic back in the days. Y
 You cannot just randomize the numbers at will, since
 "half of the starting positions for the puzzle are impossible to resolve, no matter how many moves are made."
 
-This is my basic version.
-It cannot solve the puzzle by "AI"/recursion?.
-This is a demo version reversing back the pieces that was scrambled.
 
 I wonder; if "half" the puzzles are possible, then using random starting numbers, what kind of algorithm could reject impossible puzzles faster than going thru the entire thing to find a solution, or not?
 
